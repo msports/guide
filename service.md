@@ -1,4 +1,4 @@
-# How to Join
+# Service
 
 
 
@@ -9,6 +9,12 @@
 | IGKBET| MY/HK| 20/6000| 100 |
 | 959REAL|MM/MY/HK|10/4000|2000|
 |MAXBET|MM/MY/HK|3/1500|1500
+
+###Type of service
+
+1. 
+
+
 
 
 
