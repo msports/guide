@@ -12,7 +12,8 @@
 
 ###Type of service
 
-1. 
+1. AGENTS
+2. MEMBERS
 
 
 
