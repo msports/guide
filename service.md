@@ -12,8 +12,8 @@
 
 ###Type of service
 
-1. AGENTS
-2. MEMBERS
+1. [AGENTS](agent.md)
+2. [MEMBERS](member.md)
 
 
 
