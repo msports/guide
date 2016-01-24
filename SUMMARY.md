@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Service](  service.md/chapter1md.md)
+* [Service](services.md/chapter1mdmd.md)
 * [How to Bet](Service.md)
 
